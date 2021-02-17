@@ -59,6 +59,7 @@ var BASE_STYLES = {
   },
   RightButton: {
     position: 'absolute',
+    left: 0,
     top: 0,
     right: BUTTON_EFFECTIVE_MARGIN,
     overflow: 'hidden',
